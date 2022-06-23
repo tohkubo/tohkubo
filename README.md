@@ -10,10 +10,11 @@ Graduated with a degree in EECS and am currently building everything backend at 
 * 🖥️  See my portfolio at [tohkubo](http://tohkubo.github.io/index.html)
 * ✉️  You can contact me on [linkedin](https://www.linkedin.com)
 * 🚀  I'm currently working on [various projects for lifestyle improvements!](http://github.com)
-* 🧠  I'm learning the latest technologies
-* 🤝  I'm open to collaborating on interesting computer vision projects
+* 🧠  I'm interested in researching state-of-the-art A.I. and computer vision
+* ✈️  Love to travel, explore new places, and try new things!
+* 🌱 Love the outdoors!
 
-⚡ Thanks for visiting! ⚡
+⚡ Thanks for visiting! ⚡
 
 <!-- 
 <a href="https://www.github.com/tohkubo" target="_blank" rel="noreferrer"><img

@@ -11,8 +11,8 @@ Graduated with a degree in EECS and am currently building everything backend at 
 * ✉️  You can contact me on [linkedin](https://www.linkedin.com)
 * 🚀  I'm currently working on [various projects for lifestyle improvements!](http://github.com)
 * 🧠  I'm interested in researching state-of-the-art A.I. and computer vision
-* ✈️  Love to travel, explore new places, and try new things!
-* 🌱 Love the outdoors!
+* ✈️  Always trying to find time to travel, explore new places, and try new things!
+* 🌱 Love the outdoors and sunny weathers!
 
 ⚡ Thanks for visiting! ⚡
 

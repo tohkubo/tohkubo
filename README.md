@@ -6,15 +6,15 @@ Hi 👋 My name is @tohkubo!
 Software Engineer
 -----------------
 
-Graduated with a degree in EECS and am currently building everything backend at a startup!
+Graduated with a degree in EECS and am currently building everything backend at a startup! I'm always exploring new ways to integrate computer vision with my daily life. 
 
-* 🌍  I'm based in Southern California
+<!-- * 🌍  I'm based in Southern California
 * 🖥️  See my portfolio at [tohkubo](https://www.google.com)
 * ✉️  You can contact me on [linkedin](https://www.linkedin.com)
 * 🚀  I'm currently working on [various projects for lifestyle improvements!](http://github.com)
-* 🧠  I'm interested in researching state-of-the-art A.I. and computer vision
-* ✈️  Always trying to find time to travel, explore new places, and try new things!
-* 🌱 Love the outdoors and sunny weathers!
+* 🧠  I'm interested in the intersection of A.I., computer vision, and software
+* ✈️  Always trying to find time to travel, explore new places, and try new things
+* 🌱 Love the outdoors and sunny weathers! -->
 
 ⚡ Thanks for visiting! ⚡
 

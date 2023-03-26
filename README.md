@@ -6,7 +6,7 @@ Hi 👋 My name is @tohkubo!
 Software Engineer
 -----------------
 
-Graduated with a degree in EECS and am currently building everything backend at a startup! I'm always exploring new ways to integrate computer vision with my daily life. 
+Graduated with a degree in EECS and am currently building everything backend at a startup! I've had the opportunity to work at Curai, Hivemapper, and BluBracket to help scale their platform and reduce infrastructure costs. When I had more free time on my hands, I've been exploring new ways to integrate computer vision into my daily life. 
 
 <!-- * 🌍  I'm based in Southern California
 * 🖥️  See my portfolio at [tohkubo](https://www.google.com)

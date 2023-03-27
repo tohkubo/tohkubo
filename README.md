@@ -53,9 +53,10 @@ src="https://img.shields.io/github/followers/tohkubo?logo=github&style=for-the-b
 
 <p align="left"> <a href="https://www.github.com/tohkubo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </p>
 
-### Badges
 
-<b>My GitHub Stats</b>
+---
+
+<!-- <b>My GitHub Stats</b> -->
 
 <!-- <a href="https://www.github.com/tohkubo"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tohkubo&show_icons=true&locale=en&layout=compact" alt="tohkubo"/></a> -->
 

@@ -57,10 +57,17 @@ src="https://img.shields.io/github/followers/tohkubo?logo=github&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/tohkubo"><img src="https://github-readme-stats.vercel.app/api?username=tohkubo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tohkubo's GitHub stats" /></a>
+<!-- <a href="https://www.github.com/tohkubo"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tohkubo&show_icons=true&locale=en&layout=compact" alt="tohkubo"/></a> -->
 
-<a href="http://www.github.com/tohkubo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tohkubo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=tohkubo&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohkubo&layout=compact" />
+</div>
 
+<!-- <a href="https://www.github.com/tohkubo"><img src="https://github-readme-stats.vercel.app/api?username=tohkubo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tohkubo's GitHub stats" /></a> -->
+
+<!-- <a href="https://www.github.com/tohkubo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tohkubo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ -->
 <!---
 <a href="http://www.github.com/tohkubo"><img src="https://activity-graph.herokuapp.com/graph?username=tohkubo&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 -->

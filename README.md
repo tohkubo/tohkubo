@@ -122,13 +122,13 @@ src="https://img.shields.io/github/followers/tohkubo?logo=github&style=for-the-b
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
 
+<!--
 ---
-
-  
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=tohkubo&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohkubo&layout=compact" />
 </div>
+-->
   
  
   

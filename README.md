@@ -6,7 +6,7 @@ Hi 👋 My name is @tohkubo!
 Software Engineer
 -----------------
 
-Graduated with a degree in EECS and am currently building everything backend! I've had the opportunity to work at various startups—ranging from web3, AI, and security—where I helped scale their platform and reduce infrastructure costs. When I had more free time on my hands, I used to explore new ways to integrate computer vision into my daily life. 
+Graduated with a degree in EECS and am currently building everything backend! I've had the opportunity to work at various startups—ranging from web3, AI, and security—where I helped scale their APIs and reduce infrastructure costs. When I had more free time on my hands, I used to explore new ways to integrate computer vision into my daily life. 
 
 <!-- * 🌍  I'm based in Southern California
 * 🖥️  See my portfolio at [tohkubo](https://www.google.com)

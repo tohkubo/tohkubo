@@ -3,10 +3,10 @@
 Hi 👋 My name is @tohkubo!
 ========================
 
-Software Engineer
+Senior Software Engineer
 -----------------
 
-Graduated with a degree in EECS and am currently building everything backend! I've had the opportunity to work at various startups—ranging from web3, AI, and security—where I helped scale their APIs and write server-side logic to process large datasets. When I had more free time on my hands, I used to explore new ways to integrate computer vision into my daily life. 
+I'm currently working full-time as a Senior Software Engineer at a startup. I've had the opportunity to work at various high-growth startups where I led the development of core APIs and architected scalable solutions. When I had more free time on my hands, I used to explore new ways to integrate computer vision into my daily life. 
 
 <!-- * 🌍  I'm based in Southern California
 * 🖥️  See my portfolio at [tohkubo](https://www.google.com)

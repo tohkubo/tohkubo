@@ -3,10 +3,10 @@
 Hi 👋 My name is @tohkubo!
 ========================
 
-Senior Software Engineer
------------------
+Senior Engineering Lead
+---
 
-I'm currently working full-time as a Senior Software Engineer at a startup. I've had the opportunity to work at various high-growth startups where I led the development of core APIs and architected scalable solutions. When I had more free time on my hands, I used to explore new ways to integrate computer vision into my daily life. 
+I've had the opportunity to work at various high-growth startups where I led the development of high-performance systems, core APIs, and architected scalable solutions. When I had more free time on my hands, I used to explore new ways to integrate computer vision into my daily life. 
 
 <!-- ⚡ Thanks for visiting! ⚡ -->
 

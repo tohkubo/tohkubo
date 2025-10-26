@@ -6,7 +6,7 @@ Hi 👋 My name is @tohkubo!
 Engineering Lead // Staff Software Engineer
 ---
 
-I'm currently building systems and setting the technical direction at high-growth startups. Most of my time goes into architecting scalable infrastructure, leading cross-functional initiatives, and managing/mentoring a great team through growth and complex technical challenges. When I had more free time on my hands, I used to explore new ways to integrate computer vision into my daily life.
+I'm currently building large-scale systems and setting the technical direction at high-growth startups. Most of my time goes into architecting scalable infrastructure, leading cross-functional initiatives, and managing/mentoring a great team through growth and complex technical challenges. When I had more free time on my hands, I used to explore new ways to integrate computer vision into my daily life.
 
 <!-- ⚡ Thanks for visiting! ⚡ -->
 
